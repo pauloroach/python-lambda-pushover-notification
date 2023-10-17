@@ -1,14 +1,7 @@
-# python-lambda-pushover-notification
-AWS Python Lambda that publishes Pushover Notification
-
-
 # Python Lambda AWS Pushover Notification
-
-
 AWS Python Lambda that publishes Pushover Notification
 
 ## Configuration
-
 Replace user_key = 'xxxxxxxx' and api_token = 'xxxxxxxxx'
 
 | Parameter | Value                                  |
